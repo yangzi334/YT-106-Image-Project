@@ -69,7 +69,7 @@ confusion matrix, precision, recall, and F1-score shown below for each model:
 
 ![image](https://github.com/user-attachments/assets/d493a99d-3348-4c89-8717-47444db4f711)
 
-4.4: the Vision transformer fine-tuned model (note: this the Vit fine-tuned model is too big to upload in the github, so please run the code yourself and you will see all the updated parameters)
+4.4: the Vision transformer fine-tuned model (note: since the Vit fine-tuned model is too big to upload in the github, so please run the code yourself and you will see all those updated parameters)
 
 ![image](https://github.com/user-attachments/assets/a8915d56-417d-46be-ae9c-32061c6e20cc)
 
